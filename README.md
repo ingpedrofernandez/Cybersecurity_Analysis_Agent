@@ -9,4 +9,5 @@ Semgrep for static security scanning
 A React/Next.js frontend
 A FastAPI backend
 Docker containerization
-Cloud deployment with Terraform
+Cloud deployment with Terraform for Azure and GCP
+
